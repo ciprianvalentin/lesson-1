@@ -3,6 +3,7 @@ current progress
 - Momentan sunt salvate ca un array, si este un loop, map, care le incarca si le afiseaza sub forma unor div uri cu titlu/descirere and so on
 
 to do:
+- aparent trebuie sa invat sa folosesc useState pentru ca asa se fac paginile astea interactive, fara sa fie nevoie de refresh...
 - lista initial trebuie sa fie goala, si sa exista un buton ce le adauga in firebase, iar apoi sa fie afisate pe pagina
 - indq nu stiu daca sa folosesc localstorage sau daca sa trec direct pe firebase, pentru ca eu zic ca un pas mai mare, astept sa raspunda profu
 - de adaugat un buton care le sterge langa fiecare notita
